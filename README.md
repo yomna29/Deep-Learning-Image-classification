@@ -36,8 +36,6 @@ This repository contains a deep learning project that implements a Convolutional
 - A comprehensive classification report.
 - Visualizations of sample predictions with correct and incorrect labels highlighted.
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for more details.
 
 ## Acknowledgements
 - CIFAR-10 dataset courtesy of the University of Toronto.
